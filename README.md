@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Francisco Neto 👋
 
-![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=ciscoscript&show_icons=true&theme=tokyonight)
+![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoNeto05&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciscoscript&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoNeto05&hide_progress=true)
 
 ### Tecnologias que utilizo
 <div style="display: inline_block"><br/>
